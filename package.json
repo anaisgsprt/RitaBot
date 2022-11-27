@@ -1,4 +1,7 @@
 {
+  "resolutions": {
+    "cssnano-preset-simple": "3.0.0"
+  },
   "name": "ritabot",
   "version": "1.2.6-21",
   "engines": {
