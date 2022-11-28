@@ -72,5 +72,6 @@
     "gulp-uglify-es": "^2.0.0",
     "rita-gulp-watch": "^5.1.4"
   },
-  "nodeVersion": "16.11.1"
+  //"nodeVersion": "16.11.1"
+  "nodeVersion": "18.12.1"
 }
